@@ -1,0 +1,3 @@
+version: 1.0.0
+type: library
+buildEngine: python-3.8.0

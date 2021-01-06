@@ -8,6 +8,5 @@ __pycache__/
 *.so
 *~
 
-# due to using tox and pytest
-.tox
+# due to using pytest
 .cache
